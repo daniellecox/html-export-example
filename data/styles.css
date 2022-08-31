@@ -1,0 +1,196 @@
+﻿.ax_default {
+  font-family:'Libre Franklin';
+  font-weight:300;
+  font-style:light;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.shape {
+}
+.image {
+  color:#000000;
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.heading_1 {
+  font-family:'Libre Franklin';
+  font-weight:600;
+  font-style:semi-bold;
+  font-size:32px;
+  text-align:left;
+}
+.heading_2 {
+  font-family:'Libre Franklin';
+  font-weight:600;
+  font-style:semi-bold;
+  font-size:24px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:'Libre Franklin';
+  font-weight:600;
+  font-style:semi-bold;
+  font-size:18px;
+  text-align:left;
+}
+.heading_4 {
+  font-family:'Libre Franklin';
+  font-weight:600;
+  font-style:semi-bold;
+  font-size:14px;
+  text-align:left;
+}
+.heading_5 {
+  font-family:'Libre Franklin';
+  font-weight:600;
+  font-style:semi-bold;
+  text-align:left;
+}
+.heading_6 {
+  font-family:'Libre Franklin';
+  font-weight:600;
+  font-style:semi-bold;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-size:14px;
+  text-align:left;
+}
+.paragraph {
+  text-align:left;
+}
+.text_link {
+  color:#0000FF;
+}
+.text_link_mouse_over {
+}
+.text_link_mouse_down {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+.line {
+}
+.checkbox {
+  text-align:left;
+}
+.flow_shape {
+}
+.horizontal_line {
+}
+.connector {
+}
+.box_1 {
+}
+.droplist {
+  color:#000000;
+  text-align:left;
+}
+.text_field {
+  color:#000000;
+  text-align:left;
+}
+.c__hover-tertiary {
+  color:#FFFFFF;
+}
+.tools_generic_selected {
+  font-size:16px;
+  letter-spacing:0.4px;
+  color:#FFFFFF;
+  line-height:20px;
+}
+.c__disabled-02 {
+  color:#6F6D6D;
+}
+.box_3 {
+  font-family:'Intel Clear Light', 'Intel Clear', sans-serif;
+  font-weight:200;
+  font-style:normal;
+  font-size:15px;
+  color:#003C71;
+  text-align:left;
+}
+.icon {
+}
+.box_2 {
+}
+.c_tab__hover {
+  color:#161616;
+}
+.shape1 {
+  font-family:'Intel Clear Regular', 'Intel Clear', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#868E96;
+  text-align:left;
+}
+.body_copy {
+  font-family:'Intel Clear Regular', 'Intel Clear', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:16px;
+  color:#212529;
+  text-align:left;
+  line-height:24px;
+}
+.kitheader {
+  font-family:'Intel Clear Bold', 'Intel Clear', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:20px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:24px;
+}
+.link_button {
+  color:#169BD5;
+}
+.image1 {
+  color:#000000;
+}
+.box_31 {
+}
+.basicbutton {
+  font-family:'Libre Franklin';
+  font-weight:300;
+  font-style:light;
+  font-size:14px;
+  letter-spacing:0.3px;
+  color:#FFFFFF;
+  text-align:left;
+  line-height:16px;
+}
+.button {
+}
+.b_tools_generic_selected {
+  font-size:16px;
+  letter-spacing:0.4px;
+  color:#FFFFFF;
+  line-height:20px;
+}
+.icon1 {
+}
+.shape2 {
+}
+.ellipse {
+}
+.tabtop {
+  font-family:'Intel Clear Bold', 'Intel Clear', sans-serif;
+  font-weight:700;
+  font-style:normal;
+  font-size:19px;
+  color:#B2BCC6;
+  text-align:left;
+  line-height:16px;
+}
+textarea, select, input, button { outline: none; }
